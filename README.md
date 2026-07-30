@@ -11,8 +11,6 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CS student at San Francisco State, in the SF Bay Area.<br>
-> Small, sharp tools over big vague ideas.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
